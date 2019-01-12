@@ -10,4 +10,4 @@ A simple tool to compare (linguistic) signs.
 Notice that you should always enter the same feature in the same way in order to get helpful results (e.g. stick to a feature "human" instead of varying by using different labels like "human", "homo sapiens" or "person"). Some exemplary signs (representing German words) can be found in this package as well (see "[sc_files](sc_files)").
 
 ## License
-The work contained in this package is licensed under the Apache License, Version 2.0 (see the file "[LICENSE](LICENSE.txt)").
+The work contained in this package is licensed under the Apache License, Version 2.0 (see the file "[LICENSE](LICENSE)").
